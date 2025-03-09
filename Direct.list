@@ -5,6 +5,239 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+# CHD 
+DOMAIN-SUFFIX,ptchdbits.co                     
+DOMAIN-SUFFIX,chdbits.xyz     
+DOMAIN-SUFFIX,tracker.rainbowisland.co
+DOMAIN-SUFFIX,chddiy.xyz
+DOMAIN-KEYWORD,chdbits
+DOMAIN-KEYWORD,chddiy
+
+# M-Team
+DOMAIN-SUFFIX,zp.m-team.io                 
+DOMAIN-KEYWORD,m-team                      
+DOMAIN-SUFFIX,tracker.m-team.cc           
+DOMAIN-SUFFIX,api.m-team.cc                
+DOMAIN-SUFFIX,api.m-team.io    
+
+# Audiences
+DOMAIN-SUFFIX,audiences.me                
+DOMAIN-SUFFIX,t.audiences.me               
+DOMAIN-SUFFIX,tracker.cinefiles.info       
+
+# hhanclub
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hhan.club
+DOMAIN-SUFFIX,tracker.hhan.club
+DOMAIN-SUFFIX,tracker.hhanclub.top
+
+# ourbits
+DOMAIN-SUFFIX,ourbits.club                
+DOMAIN-KEYWORD,ourbits                     
+
+# hddolby
+DOMAIN-SUFFIX,hddolby.com                  
+DOMAIN-SUFFIX,t.hddolby.com   
+
+# SSD
+DOMAIN-SUFFIX,springsunday.net
+DOMAIN-SUFFIX,on.springsunday.net
+
+# hdhome
+DOMAIN-SUFFIX,hdhome.org                   
+DOMAIN-SUFFIX,t.hdhome.org                
+
+# keepfrds
+DOMAIN-SUFFIX,pt.keepfrds.com             
+DOMAIN-SUFFIX,tracker.keepfrds.com        
+
+# totheglory
+DOMAIN-SUFFIX,totheglory.im               
+DOMAIN-SUFFIX,tracker.totheglory.im  
+
+# lemonhd
+DOMAIN-SUFFIX,lemonhd.club
+DOMAIN-SUFFIX,tracker01.ilovelemonhd.me
+
+# agsvpt
+DOMAIN-SUFFIX,agsvpt.com                   
+DOMAIN-KEYWORD,agsvpt                     
+DOMAIN-SUFFIX,agsvpt.trackers.work         
+DOMAIN-SUFFIX,tracker.agsvpt.cn           
+DOMAIN-SUFFIX,ipv6.agsvpt.cn              
+
+# leaves
+DOMAIN-SUFFIX,leaves.red                  
+DOMAIN-KEYWORD,leaves                     
+DOMAIN-SUFFIX,tracker.leaves.red          
+DOMAIN-SUFFIX,tracker2.leaves.red          
+DOMAIN-SUFFIX,tracker3.leaves.red         
+DOMAIN-SUFFIX,tracker.leaves.red          
+
+# pttime
+DOMAIN-SUFFIX,pttime.org                  
+
+# hdvideo
+DOMAIN-SUFFIX,hdvideo.one                 
+
+# ubits
+DOMAIN-SUFFIX,ubits.club                   
+DOMAIN-SUFFIX,t.ubits.club                
+
+# tjupt
+DOMAIN-SUFFIX,tjupt.org                   
+DOMAIN-SUFFIX,tracker-public.tjupt.org    
+
+# dajiao
+DOMAIN-SUFFIX,dajiao.cyou                  
+
+# hdtime
+DOMAIN-SUFFIX,hdtime.org                  
+DOMAIN-SUFFIX,tracker.hdtime.org           
+
+# hdarea
+DOMAIN-SUFFIX,hdarea.club                   
+DOMAIN-SUFFIX,tracker.hdarea.club          
+
+# pandapt
+DOMAIN-SUFFIX,pandapt.net                 
+
+# hdfans
+DOMAIN-SUFFIX,hdfans.org                   
+
+
+# zmpt
+DOMAIN-SUFFIX,zmpt.cc                      
+DOMAIN-SUFFIX,zmpt.club                    
+
+# hdatmos
+DOMAIN-SUFFIX,hdatmos.club                 
+
+# ptsbao
+DOMAIN-SUFFIX,ptsbao.club                   
+
+
+# tosky
+DOMAIN-SUFFIX,t.tosky.club                 
+DOMAIN-SUFFIX,tr.tosky.club                
+
+
+# pthome
+DOMAIN-SUFFIX,pthome.net                  
+DOMAIN-SUFFIX,t.pthome.net               
+
+# soulvoice
+DOMAIN-SUFFIX,pt.soulvoice.club           
+
+
+# cyanbug
+DOMAIN-SUFFIX,cyanbug.net                  
+DOMAIN-SUFFIX,tracker.cyanbug.net         
+
+
+# qingwa
+DOMAIN-SUFFIX,new.qingwa.pro              
+DOMAIN-SUFFIX,qingwa.com                   
+DOMAIN-SUFFIX,tracker.qingwa.pro          
+DOMAIN-SUFFIX,tracker.qingwapt.com        
+DOMAIN-SUFFIX,tracker.qingwapt.pro         
+
+# ptvicomo
+DOMAIN-SUFFIX,ptvicomo.net                
+DOMAIN-SUFFIX,tracker.ptvicomo.net        
+
+# hdkyl
+DOMAIN-SUFFIX,hdkyl.in                    
+DOMAIN-SUFFIX,tracker.hdkyl.in            
+DOMAIN-SUFFIX,www.hdkylin.top             
+
+
+
+# ultrahd
+DOMAIN-SUFFIX,ultrahd.net                  
+
+
+# piggo
+DOMAIN-SUFFIX,piggo.me                    
+DOMAIN-SUFFIX,tracker.piggo.me             
+
+# okpt
+DOMAIN-SUFFIX,okpt.net                    
+DOMAIN-SUFFIX,www.okpt.net   
+
+# hares
+DOMAIN-SUFFIX,club.hares.top              
+
+# ptchina
+DOMAIN-SUFFIX,ptchina.org               
+
+# okpt
+DOMAIN-SUFFIX,okpt.net                 
+DOMAIN-SUFFIX,www.okpt.net             
+
+
+# zhuque
+DOMAIN-SUFFIX,zhuque.in                
+DOMAIN-SUFFIX,tracker.zhuque.in          
+
+# ilolicon
+DOMAIN-SUFFIX,share.ilolicon.com          
+DOMAIN-SUFFIX,tracker.ilolicon.cc         
+
+# haidan
+DOMAIN-SUFFIX,www.haidan.video            
+DOMAIN-SUFFIX,announce.haidan.video      
+
+# oshen
+DOMAIN-SUFFIX,www.oshen.win               
+
+# yemapt
+DOMAIN-SUFFIX,yemapt.org              
+DOMAIN-SUFFIX,tracker.yemapt.org 
+
+# crabpt 蟹黄堡
+DOMAIN-SUFFIX,crabpt.vip                   
+
+# kufei
+DOMAIN-SUFFIX,kufei.org                   
+
+# ecust
+DOMAIN-SUFFIX,pt.ecust.pp.ua               
+DOMAIN-SUFFIX,ecustpt.eu.org               
+
+# hdcity
+DOMAIN-SUFFIX,hdcity.city                  
+DOMAIN-SUFFIX,sync.leniter.org              
+
+# fsm
+DOMAIN-SUFFIX,connects.icu                 
+DOMAIN-SUFFIX,nextpt.net                   
+
+# byr
+DOMAIN-SUFFIX,tracker.byr.pt
+
+# ptlgs
+DOMAIN-SUFFIX,ptlgs.org
+DOMAIN-SUFFIX,ptl.gs
+
+# star-space
+DOMAIN,star-space.net/announce.php
+
+# nanyangpt
+DOMAIN-SUFFIX,nanyangpt.com
+DOMAIN-SUFFIX,tracker.nanyangpt.com
+
+# hdpt
+DOMAIN-SUFFIX,hdpt.xyz
+
+# sunnypt
+DOMAIN-SUFFIX,sunnypt.top
+DOMAIN-SUFFIX,tracker.sunnypt.top
+
+# xingyunge
+DOMAIN-SUFFIX,xingyunge.top
+DOMAIN-KEYWORD,xingyunge
+
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
