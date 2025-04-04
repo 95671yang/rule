@@ -32,16 +32,16 @@ DOMAIN-SUFFIX,tracker.hhan.club
 DOMAIN-SUFFIX,tracker.hhanclub.top
 
 # ourbits
-DOMAIN-SUFFIX,ourbits.club                
-DOMAIN-KEYWORD,ourbits                     
+# DOMAIN-SUFFIX,ourbits.club                
+# DOMAIN-KEYWORD,ourbits                     
 
 # hddolby
 DOMAIN-SUFFIX,hddolby.com                  
 DOMAIN-SUFFIX,t.hddolby.com   
 
 # SSD
-DOMAIN-SUFFIX,springsunday.net
-DOMAIN-SUFFIX,on.springsunday.net
+# DOMAIN-SUFFIX,springsunday.net
+# DOMAIN-SUFFIX,on.springsunday.net
 
 # hdhome
 DOMAIN-SUFFIX,hdhome.org                   
